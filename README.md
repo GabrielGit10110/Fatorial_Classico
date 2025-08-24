@@ -8,6 +8,20 @@ O código deve trazer como comentários: <br>
 A condição de parada <br>
 Como escrever a função para o termo n em função do termo anterior
 
+---
+
+## Como usar:
+
+### Clone esse repositório:
+```bash
+git clone https://github.com/GabrielGit10110/Fatorial_Classico.git
+```
+
+### Entre no diretório:
+```bash
+cd Fatorial_Classico
+```
+
 ### ⚙️ Como compilar:
 1. Transforme todos os arquivos.java em arquivos.class:
 ```bash
